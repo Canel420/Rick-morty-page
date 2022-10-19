@@ -5,7 +5,7 @@
 This is a simple page that renders the main characters of the show Rick & Morty
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-and deploy using vercel platform.
+and deploy using Vercel platform.
 
 ## Available Scripts
 
